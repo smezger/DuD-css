@@ -17,13 +17,13 @@
 * You should have received a copy of the GNU Affero General Public License *
 * along with dudle.  If not, see <http://www.gnu.org/licenses/>.           *
 ***************************************************************************/
+@import url('//fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
 
 html {
 	font-family: sans-serif;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%
 }
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
 
 body {
 	padding: 0;
