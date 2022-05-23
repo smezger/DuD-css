@@ -151,8 +151,6 @@ a {
 }
 
 #breadcrumbs ul li:after {
-	font-family: tud-icons !important;
-	speak: none;
 	font-style: normal;
 	font-weight: 400;
 	font-variant: normal;
@@ -160,8 +158,7 @@ a {
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	display: inline-block;
-	content: "";
+	display: inline-block;	
 	color: #999;
 	margin: 0 0 0 .6em;
 	position: absolute;
